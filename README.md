@@ -1,6 +1,6 @@
 ---
-summary: 'Quick project summary shown here.'
-time: '30 mins'
+summary: 'Write up a basic overview of the website you plan to code this term.'
+time: '30 minks'
 deliverables: 'Text document'
 ---
 

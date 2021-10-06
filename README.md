@@ -1,6 +1,6 @@
 ---
 summary: 'Write up a basic overview of the website you plan to code this term.'
-time: '30 minks'
+time: '30 mins'
 deliverables: 'Text document'
 ---
 
